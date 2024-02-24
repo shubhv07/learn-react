@@ -2,11 +2,11 @@
 
 ## Some usefull commands
 
-npm init
-npm install 'dependencies-name'
-npm install -D 'devDependencies-name'
-npm parcel index.html
-npm parcel build index.html  --for prod build
+- npm init
+- npm install 'dependencies-name'
+- npm install -D 'devDependencies-name'
+- npm parcel index.html
+- npm parcel build index.html  --for prod build
 
 ## Parcel
 
